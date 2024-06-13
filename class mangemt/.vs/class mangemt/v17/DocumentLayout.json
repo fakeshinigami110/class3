@@ -1,0 +1,504 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\class mangment\\class mangemt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\editstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:editstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\reviewstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:reviewstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|d:\\c#\\class mangment\\class mangemt\\reviewstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:reviewstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\teachermenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:teachermenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\studentloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:studentloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\studentdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:studentdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\studentdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:studentdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\addstudentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:addstudentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\studentloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:studentloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\reviewstudentsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:reviewstudentsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\editstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:editstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\editstudentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:editstudentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\teachermenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:teachermenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\teachermenuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:teachermenuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|class mangemt||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\teacherform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:teacherform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\studentdetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:studentdetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|D:\\c#\\class mangment\\class mangemt\\studentloginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|solutionrelative:studentloginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BA145D-0DD3-4AF7-8FFA-1AE67D33F3B5}|class mangemt.csproj|d:\\c#\\class mangment\\class mangemt\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 233,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TeacherMenuForm.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\TeacherMenuForm.Designer.cs",
+              "RelativeDocumentMoniker": "TeacherMenuForm.Designer.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\TeacherMenuForm.Designer.cs",
+              "RelativeToolTip": "TeacherMenuForm.Designer.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:06:15.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TeacherMenuForm.cs",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\TeacherMenuForm.cs",
+              "RelativeDocumentMoniker": "TeacherMenuForm.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\TeacherMenuForm.cs",
+              "RelativeToolTip": "TeacherMenuForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:05:45.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeacherMenuForm.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\TeacherMenuForm.cs",
+              "RelativeDocumentMoniker": "TeacherMenuForm.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\TeacherMenuForm.cs [Design]",
+              "RelativeToolTip": "TeacherMenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:05:44.074Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReviewStudentsForm.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\ReviewStudentsForm.Designer.cs",
+              "RelativeDocumentMoniker": "ReviewStudentsForm.Designer.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\ReviewStudentsForm.Designer.cs",
+              "RelativeToolTip": "ReviewStudentsForm.Designer.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBwAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:59:57.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReviewStudentsForm.cs",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\ReviewStudentsForm.cs",
+              "RelativeDocumentMoniker": "ReviewStudentsForm.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\ReviewStudentsForm.cs",
+              "RelativeToolTip": "ReviewStudentsForm.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAcwDIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:59:36.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewStudentsForm.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\ReviewStudentsForm.cs",
+              "RelativeDocumentMoniker": "ReviewStudentsForm.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\ReviewStudentsForm.cs [Design]",
+              "RelativeToolTip": "ReviewStudentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:59:35.302Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditStudentForm.cs",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\EditStudentForm.cs",
+              "RelativeDocumentMoniker": "EditStudentForm.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\EditStudentForm.cs",
+              "RelativeToolTip": "EditStudentForm.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:46:36.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditStudentForm.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\EditStudentForm.Designer.cs",
+              "RelativeDocumentMoniker": "EditStudentForm.Designer.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\EditStudentForm.Designer.cs",
+              "RelativeToolTip": "EditStudentForm.Designer.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAQwHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:46:01.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditStudentForm.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\EditStudentForm.cs",
+              "RelativeDocumentMoniker": "EditStudentForm.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\EditStudentForm.cs [Design]",
+              "RelativeToolTip": "EditStudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:45:23.816Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TeacherForm.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\TeacherForm.Designer.cs",
+              "RelativeDocumentMoniker": "TeacherForm.Designer.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\TeacherForm.Designer.cs",
+              "RelativeToolTip": "TeacherForm.Designer.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAQwEAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:43:55.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TeacherForm.cs",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\TeacherForm.cs",
+              "RelativeDocumentMoniker": "TeacherForm.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\TeacherForm.cs",
+              "RelativeToolTip": "TeacherForm.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAuwGIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:43:47.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeacherForm.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\TeacherForm.cs",
+              "RelativeDocumentMoniker": "TeacherForm.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\TeacherForm.cs [Design]",
+              "RelativeToolTip": "TeacherForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:42:54.701Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddStudentForm.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\AddStudentForm.Designer.cs",
+              "RelativeDocumentMoniker": "AddStudentForm.Designer.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\AddStudentForm.Designer.cs",
+              "RelativeToolTip": "AddStudentForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:29:23.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddStudentForm.cs",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\AddStudentForm.cs",
+              "RelativeDocumentMoniker": "AddStudentForm.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\AddStudentForm.cs",
+              "RelativeToolTip": "AddStudentForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:29:08.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddStudentForm.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\AddStudentForm.cs",
+              "RelativeDocumentMoniker": "AddStudentForm.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\AddStudentForm.cs [Design]",
+              "RelativeToolTip": "AddStudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:29:06.783Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StudentLoginForm.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\StudentLoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "StudentLoginForm.Designer.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\StudentLoginForm.Designer.cs",
+              "RelativeToolTip": "StudentLoginForm.Designer.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:17:33.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:10:17.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentDetailsForm.cs",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\StudentDetailsForm.cs",
+              "RelativeDocumentMoniker": "StudentDetailsForm.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\StudentDetailsForm.cs",
+              "RelativeToolTip": "StudentDetailsForm.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:47:39.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentDetailsForm.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\StudentDetailsForm.cs",
+              "RelativeDocumentMoniker": "StudentDetailsForm.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\StudentDetailsForm.cs [Design]",
+              "RelativeToolTip": "StudentDetailsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:47:31.439Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:08:31.855Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:42:10.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:40:11.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-12T20:33:00.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentLoginForm.cs",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\StudentLoginForm.cs",
+              "RelativeDocumentMoniker": "StudentLoginForm.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\StudentLoginForm.cs",
+              "RelativeToolTip": "StudentLoginForm.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:40:36.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentLoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\StudentLoginForm.cs",
+              "RelativeDocumentMoniker": "StudentLoginForm.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\StudentLoginForm.cs [Design]",
+              "RelativeToolTip": "StudentLoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:37:19.19Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "class mangemt",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\class mangemt.csproj",
+              "RelativeDocumentMoniker": "class mangemt.csproj",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\class mangemt.csproj",
+              "RelativeToolTip": "class mangemt.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-12T19:36:17.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StudentDetailsForm.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\StudentDetailsForm.Designer.cs",
+              "RelativeDocumentMoniker": "StudentDetailsForm.Designer.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\StudentDetailsForm.Designer.cs",
+              "RelativeToolTip": "StudentDetailsForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:05:00.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-12T19:32:35.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\c#\\class mangment\\class mangemt\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\c#\\class mangment\\class mangemt\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:14:01.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
